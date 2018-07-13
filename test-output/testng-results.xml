@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78999" started-at="2018-07-13T16:28:52Z" finished-at="2018-07-13T16:30:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78999" started-at="2018-07-13T16:28:52Z" finished-at="2018-07-13T16:30:11Z">
+      <class name="com.accenture.Instagram.App">
+        <test-method status="PASS" signature="setUpAppium()[pri:0, instance:com.accenture.Instagram.App@10726a3]" name="setUpAppium" is-config="true" duration-ms="35033" started-at="2018-07-13T16:28:52Z" finished-at="2018-07-13T16:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAppium -->
+        <test-method status="PASS" signature="mytest()[pri:0, instance:com.accenture.Instagram.App@10726a3]" name="mytest" duration-ms="37734" started-at="2018-07-13T16:29:27Z" finished-at="2018-07-13T16:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytest -->
+        <test-method status="PASS" signature="CleanUpAppium()[pri:0, instance:com.accenture.Instagram.App@10726a3]" name="CleanUpAppium" is-config="true" duration-ms="6127" started-at="2018-07-13T16:30:05Z" finished-at="2018-07-13T16:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUpAppium -->
+      </class> <!-- com.accenture.Instagram.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
